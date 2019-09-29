@@ -1,1 +1,2 @@
-Bu hafta sade bir başlangıç ve genel bilgisayar programlama hakkında konuştuk. Ayrıca temel tanım çeşitlerini öğrendik.
+# Bu hafta sade bir başlangıç ve genel bilgisayar programlama hakkında konuştuk.
+# Ayrıca temel tanım çeşitlerini öğrendik.
