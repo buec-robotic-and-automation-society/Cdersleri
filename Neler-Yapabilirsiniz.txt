@@ -1,4 +1,20 @@
-Kendinizi geliştirmek için şu soruyu çözebilirsiniz 
-https://www.hackerrank.com/challenges/solve-me-first/problem
-Çözümü de paylaştım. ;)
-Hackerrank hesabı işinize yarayacaktır açmanızı öneririm.
+Kendinizi geliştirmek için şu soruları çözebilirsiniz.
+
+Kendinizi tanıttığınız bir program yazın.
+(İsim Soyisim Bölüm Sınıf)
+
+İki tane sayımız var A ve B. A=33 B=77
+toplamı nedir?
+
+Bir restoranda 3 tür yiyecek var.
+Bunlar:
+-Hamburger ---> 13 TL
+-Pizza  ---> 22TL
+-Kola ---> 4 TL
+Arkadaş grubumuzla bu restorana gittik ve 5 hamburger 4 pizza 9 kola yedik kaç para öderiz.
+
+
+Çözümleri de paylaştım. ;)
+
+Daha fazla ilgili arkadaşlar için Hackerrank mükemmel bir site ordaki temel soruları çözerek kendinizi geliştireblirsiniz.
+Ama daha çok baştayız kendinizi çok hırpalamayın :))
