@@ -1,2 +1,6 @@
 # Bu hafta sade bir başlangıç ve genel bilgisayar programlama hakkında konuştuk.
-# Ayrıca temel tanım çeşitlerini öğrendik.
+
+Temel kod parçaları ( int main(), #include<stdio.h> ) gördük
+temel tanım çeşitlerini öğrendik.
+int, char ,float ,double tanımlama çeşitlerini ve bazı matematiksel işlemleri öğrendik.
+printf mekanizmasını öğrendik.
