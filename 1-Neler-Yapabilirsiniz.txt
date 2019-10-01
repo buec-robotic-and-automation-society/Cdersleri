@@ -1,7 +1,7 @@
 Kendinizi geliştirmek için şu soruları çözebilirsiniz.
 
 Kendinizi tanıttığınız bir program yazın.
-(İsim Soyisim Bölüm Sınıf)
+(İsim Soyisim yaş) (Henüz dizi tutmayı öğrenmediğimiz için tam isminizi değil baş harflerini kullanın)
 
 İki tane sayımız var A ve B. A=33 B=77
 toplamı nedir?
