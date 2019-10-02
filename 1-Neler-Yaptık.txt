@@ -1,6 +1,33 @@
 # Bu hafta sade bir başlangıç ve genel bilgisayar programlama hakkında konuştuk.
 
-Temel kod parçaları ( int main(), #include<stdio.h> ) gördük
-temel tanım çeşitlerini öğrendik.
+Temel kod parçaları ( int main(), #include<stdio.h>, return 0 ) gördük;
+
+stdio.h bizim kodlarımızı yazabilmemiz için gerekli kütüphanedir ve mutlaka yazılması gereklidir.
+int main bizim temel fonksiyonumuz tüm kodları bunun içine yazarız.
+return 0; bizim fonksiyonumuzun bitişini ve 0 döndürdüğünü gösterir.
+temel tanım çeşitlerini öğrendik;
+
 int, char ,float ,double tanımlama çeşitlerini ve bazı matematiksel işlemleri öğrendik.
+
+int --> integer(tam sayı) için kullandığımız tanımlama kelimesidir.
+int a=3;
+
+char --> character bir tane karakter tanımlamak için kullandığımız kelime.
+char a='a';
+
+float --> tüm sayıları(reel sayılar) tanımlamak için kullanırız.
+float a=2.3;
+
+double --> floatla aynı işi yapar ama virgülden sonra daha fazla basamak tutabilir.
+double a=5.8642
+
++ toplama - çıkarma  * çarpma / bölme direkt bu işaretlerle işlem yapıyoruz.
+
 printf mekanizmasını öğrendik.
+printf bizim ekrana bir şeyler yazdırmak için kullandığımız fonksiyondur.
+integerları yazmak için -->  printf("%d", int_ismi);
+char için --> printf("%c", char_ismi);
+float için --> printf("%f", float_ismi);
+double için --> printf("%lf",double_ismi);
+
+örnek kodlar için çözüm sayfasına bakabilirsiniz.
