@@ -1,0 +1,16 @@
+Hesap makinesi yazilimini kesinlikle yapin cok sey katar.
+Örneğin 10-7 şeklinde girdi alacak 3 cevabını verecek.
+8+5
+3*9
+18/6 girdiler bu şekilde olacak.
+
+Not ortalamasi hesaplama programini yazin
+
+
+3 sayidan en buyugunun hangisi oldugunu bulun.
+
+
+Zor bir soru, 
+
+verilen 10 sayinin ardisik en buyuk toplami nedir
+Ornegin 2 5 -7 8 3 -9 1 4 7 -6 dizisi icin 8 3 -9 1 4 7 en buyuk toplami yani 14'u verir.

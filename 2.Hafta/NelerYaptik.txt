@@ -1,0 +1,24 @@
+# Bu hafta scanf ve if yapılarını işledik.
+Scanf bizim bilgisayrdan girdi alma fonksiyonumuzdur. Mesela printf ekrana yazi yazma komutuydu. Bu da ayni sekil. 
+Scanf yapısı aynı printf gibi işler.
+Tek farkı tırnaktan sonraki değişkenleri yazdığımız kısımlarda her değişkenin başına & işareti koyuyuruz.
+int a;
+scanf("%d",&a);
+char b;
+scanf("%c",&b);
+float c;
+scanf("%f",&c);
+double d;
+scanf("%lf",&d);
+Hesap Makinesi yazabilir durumdasiniz :)
+Ikincil olarak if yapisini gorduk.
+if yapisi bizim bilgisayara kosullu islemleri yaptirabilmemizi saglar. 
+Ornegin adimin bas harfi ise dogru olmasini istiyorsam
+char a='O';
+if(a=='O'){
+	printf("Dogru");
+}
+else{
+printf("Yanlis");
+}
+else yapisi ise eger if degilse kosulunda saglanir ve icindeki islemleri yapar.
