@@ -12,5 +12,5 @@ Not ortalamasi hesaplama programini yazin
 
 Zor bir soru, 
 
-verilen 10 sayinin ardisik en buyuk toplami nedir
-Ornegin 2 5 -7 8 3 -9 1 4 7 -6 dizisi icin 8 3 -9 1 4 7 en buyuk toplami yani 14'u verir.
+verilen 5 sayinin ardisik en buyuk toplami nedir
+Ornegin 2 5 -7 8 3 dizisi icin 8 3 en buyuk toplami yani 11'i verir.
