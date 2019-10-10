@@ -1,0 +1,45 @@
+#include<stdio.h>
+int main(){
+	int a,top=0,mx=-1;
+	scanf("%d",&a);
+	top+=a;
+	if(top<0)
+		top=0;
+	if(mx<top){
+		mx=top;
+	}
+	scanf("%d",&a);
+	top+=a;
+	if(top<0){
+		top=0;
+	}
+	if(mx<top){
+		mx=top;
+	}
+	scanf("%d",&a);
+	top+=a;
+	if(top<0){
+		top=0;
+	}
+	if(mx<top){
+		mx=top;
+	}
+	scanf("%d",&a);
+	top+=a;
+	if(top<0){
+		top=0;
+	}
+	if(mx<top){
+		mx=top;
+	}
+	scanf("%d",&a);
+	top+=a;
+	if(top<0){
+		top=0;
+	}
+	if(mx<top){
+		mx=top;
+	}
+	printf("%d",mx);
+	return 0;	
+}
