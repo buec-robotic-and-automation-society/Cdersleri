@@ -22,3 +22,6 @@ else{
 printf("Yanlis");
 }
 else yapisi ise eger if degilse kosulunda saglanir ve icindeki islemleri yapar.
+
+
+Eğerki if'te iki koşul kontrol etmek isterseniz if(a<70 && a>60) şeklinde yan yana iki and işareti koyunuz.
