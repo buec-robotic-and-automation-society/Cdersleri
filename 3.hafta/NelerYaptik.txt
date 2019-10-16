@@ -1,0 +1,53 @@
+Bu hafta döngü yapıları üzerinde durdukve bir kaç kolay yazılış tekniği gösterdik.
+
+İlk teknik
+
+a++;
+üstteki satır 
+a=a+1;  kodu ile aynı işi yapar.
+ama bu işlem sadece 1 ile toplama ve 1 çıkarma işlemine mahsus. Çarpma bölme gibi başka işlemlerde olmuyor.
+
+Başka teknik;
+
+a+=5;
+üstteki satır
+a=a+5;   kodu ile aynı işi yapar.
+Bu işlemi her tür işlem için yazabilirsiniz.
+a*=5;   gibi farklı işlemler için de çalışır.
+
+
+kolaylık açısından böyle yazabilirsiniz.
+ilk yapımız ise while
+
+
+While(){
+
+}
+
+While yapısında ilk parantezin içine if'teki gibi koşullar yazarız.
+Eğer ki bu koşulu sağlıyorsa küme parantezinin içindeki kısmı yapar. Bitiş küme parantezine
+geldiğinde tekrar while'ın koşuluna döner ve tekrar koşulu kontrol eder bu böyle sağlamayana kadar gider.
+Sağlamadığı anda küme parantezinin bittiği yerden koda devam eder.
+
+int a=0,top=0;
+while(a<10){
+	top+=a;
+	a++;
+}
+printf("%d",top);
+
+bu kod 1'den 10'a kadar olan sayıları toplar.
+
+
+İkinci yapımız for mantık olarak tamamen for ile aynı. sadece yazımı biraz farklı.
+
+int a,top=0;
+for(a=0 ; a<10 ; a++){
+	top+=a;
+}
+printf("%d",top);
+
+
+For'un parantezinin görüldüğü gibi 3 kısmı var ilk kısım sadece ilk kez for'a geldiğimiz zaman çalışır. Bir daha çalışmaz.
+ikinci kısım koşul kısmımızdır. Her döngüde kontrol eder ve sağlamıyorsa for'u bitirir.
+üçüncü kısım ise koşul kısmından sonra yine her döngüde yapar.

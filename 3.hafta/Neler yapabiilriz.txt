@@ -1,0 +1,18 @@
+Bu konular biraz karışık arkadaşlar o yüzden çok fazla pratik yapmanız gerekiyor.
+Aklınıza gelen herhangi bir şeyi deneyin. Ben buraya bir kaç örnek bırakıyorum. Bunlara da göz atın.
+
+
+*
+**
+***
+****
+*****
+Yukarıdaki çıktıyı veren program
+
+
+N elemanlı bir dizideki pozitif elemanların ortalamasını bulan program.
+
+Dışarıdan girilen n elemanlı bir dizideki en büyük elemanı en küçük elemanı ve
+en büyük elemanla en küçük eleman arasındaki farkı bulan program
+
+Binom üçgeninin ilk 5 sırasını yazdırın
